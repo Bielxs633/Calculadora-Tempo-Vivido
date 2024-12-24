@@ -12,9 +12,9 @@ Este é um projeto de **Calculadora de Tempo Vivido**, que permite ao usuário i
 ---
 
 ## Funcionalidades
-- **Cálculo de tempo vivido**: Determina o tempo de vida em diferentes unidades (anos, meses, dias, etc.).
-- **Interface amigável**: Layout simples e intuitivo.
-- **Validação de entrada**: Garante que a data inserida seja válida.
+1. **Cálculo de tempo vivido**: Determina o tempo de vida em diferentes unidades (anos, meses, dias, etc.).
+2. **Interface amigável**: Layout simples e intuitivo.
+3. **Validação de entrada**: Garante que a data inserida seja válida.
 
 ---
 
